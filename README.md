@@ -1,10 +1,10 @@
 # string_manip
-**Checkpoint 1 - Atividade 1 - Python**
-Assuntos Relacionados:<br>
-  -Listas<br>
-  -Manipulação de strings e listas<br>
-  -Métodos de strings<br>
-  -Subalgoritmos<br>
+**Checkpoint 1 - Atividade 1 - Python**<br>
+**Assuntos Relacionados:<br>**
+  - Listas<br>
+  - Manipulação de strings e listas<br>
+  - Métodos de strings<br>
+  - Subalgoritmos<br>
 
 Dois subalgoritmos e um “programa principal” que permita ao usuário a manipulação das problemáticas das Funções.<br>
 Utilizando SOMENTE métodos de manipulação de string em prol do aprimoramento em lógica da programação.<br>
